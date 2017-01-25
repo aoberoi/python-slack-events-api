@@ -1,0 +1,7 @@
+appdirs==1.4.0
+gevent==1.2.1
+gevent-eventemitter==2.0
+greenlet==0.4.11
+packaging==16.8
+pyparsing==2.1.10
+six==1.10.0
